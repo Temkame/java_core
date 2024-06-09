@@ -51,5 +51,7 @@ public class Lesson2 {
         String text = null;
         text.contains("А");
         System.out.println(text);
+
+        System.out.println("ДОПОЛНИЛ ТЕКСТ");
     }
 }
