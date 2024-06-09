@@ -53,5 +53,6 @@ public class Lesson2 {
         System.out.println(text);
 
         System.out.println("ДОПОЛНИЛ ТЕКСТ");
+        System.out.println("Дополнил еще текст");
     }
 }
