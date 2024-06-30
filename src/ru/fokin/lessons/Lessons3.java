@@ -32,10 +32,6 @@ public class Lessons3 {
             System.out.println("Вытекает 1 мл");
             waterVolume--;
         }
-
         System.out.println("--------------");
-
-
-
     }
 }
